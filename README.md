@@ -1,4 +1,4 @@
-# credit-hours-IHE
+# Course workload modeling
 
 **Inferring students' workload ratings through course-level LMS variables, student-level variables, and survey data.**
 
