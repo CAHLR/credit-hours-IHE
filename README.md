@@ -1,6 +1,6 @@
-# workload-prediction
+# workload-inference
 
-**Predicting students' workload ratings through course-level LMS variables, student-level variables, and survey data.**
+**Inferring students' workload ratings through course-level LMS variables, student-level variables, and survey data.**
 
 Supplementary code for manuscript:
 
