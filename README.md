@@ -1,4 +1,4 @@
-# workload-inference
+# credit-hours-IHE
 
 **Inferring students' workload ratings through course-level LMS variables, student-level variables, and survey data.**
 
