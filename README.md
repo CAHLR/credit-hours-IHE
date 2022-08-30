@@ -2,13 +2,23 @@
 
 **Inferring students' workload ratings through course-level LMS variables, student-level variables, and survey data.**
 
-Supplementary code for manuscript:
+This repo contains the analysis code used in the following journal article:
 
 ```
-Pardos, Z. A., Borchers, C., & Yu, R. (in press). Credit hours is not enough: Explaining undergraduate perceptions of course workload using LMS records. The Internet and Higher Education.
-```
+# APA
+Pardos, Z. A., Borchers, C., & Yu, R. (2022). Credit hours is not enough: Explaining undergraduate perceptions of course workload using LMS records. The Internet and Higher Education. https://doi.org/10.1016/j.iheduc.2022.100882
 
-Please consider citing this work.
+# BibTeX
+@article{pardos2022credit,
+  title={Credit hours is not enough: Explaining undergraduate perceptions of course workload using LMS records},
+  author={Zachary A. Pardos and Conrad Borchers and Run Yu},
+  journal={The Internet and Higher Education},
+  year={2022},
+  publisher={Elsevier},
+  doi={https://doi.org/10.1016/j.iheduc.2022.100882},
+  issn={1096-7516}
+}
+```
 
 For an overview on the variables used in our analysis, please refer to the codebook in `create_sample_data.ipynb`.
 
