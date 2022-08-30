@@ -12,7 +12,7 @@ Please consider citing this work.
 
 For an overview on the variables used in our analysis, please refer to the codebook in `create_sample_data.ipynb`.
 
-*Note: Creating the example data and running the pipeline will use ca. 10 MB of disk space.*
+*Note: Creating the example data and running the pipeline will use approx. 10 MB of disk space.*
 
 Folder structure:
 
