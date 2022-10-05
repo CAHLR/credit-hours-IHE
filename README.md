@@ -6,17 +6,19 @@ This repo contains the analysis code used in the following journal article:
 
 ```
 # APA
-Pardos, Z. A., Borchers, C., & Yu, R. (2022). Credit hours is not enough: Explaining undergraduate perceptions of course workload using LMS records. The Internet and Higher Education. https://doi.org/10.1016/j.iheduc.2022.100882
+Pardos, Z. A., Borchers, C., & Yu, R. (2023). Credit hours is not enough: Explaining undergraduate perceptions of course workload using LMS records. The Internet and Higher Education, 56, 100882. https://doi.org/10.1016/j.iheduc.2022.100882
 
 # BibTeX
-@article{pardos2022credit,
+@article{pardos2023credit,
   title={Credit hours is not enough: Explaining undergraduate perceptions of course workload using LMS records},
-  author={Zachary A. Pardos and Conrad Borchers and Run Yu},
+  author={Pardos, Zachary A and Borchers, Conrad and Yu, Run},
   journal={The Internet and Higher Education},
-  year={2022},
-  publisher={Elsevier},
-  doi={https://doi.org/10.1016/j.iheduc.2022.100882},
-  issn={1096-7516}
+  volume={56},
+  pages={100882},
+  year={2023},
+  doi={10.1016/j.iheduc.2022.100882},
+  url={https://doi.org/10.1016/j.iheduc.2022.100882},
+  publisher={Elsevier}
 }
 ```
 
